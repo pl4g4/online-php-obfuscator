@@ -11,15 +11,15 @@ You need to upload php file(s). For each file uploaded it will generate a new ob
 With the online Encoder you can 
 --------------------------------
 
-	- Encode a single file
-	- Encode an multiple PHP files
-	- Download your obfuscated file
+- Encode a single file
+- Encode an multiple PHP files
+- Download your obfuscated file
 
 How to Use it 
 --------------
 
-	- Upload all files 
-	- Edit settings.php 
+- Upload all files 
+- Edit settings.php 
 	
 DEMO 
 --------------
