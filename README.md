@@ -1,7 +1,7 @@
 Online PHP Obfuscator
 ====================
 
-Submit any PHP file and you will get back an obfuscated 100% PHP equivalent file, which requires no special server runtime for execution. Backup your original files and replace them with those generated here. Please note that this method is NOT bulletproof, but will keep away curious eyes from your code. DO NOT modify the files we provide, as they might stop working.
+Submit any PHP file and you will get back an obfuscated 100% PHP equivalent file, which requires no special server runtime for execution. Backup your original files and replace them with those generated here. Please note that this method is NOT bulletproof, but will keep away curious eyes from your code. DO NOT modify the files we provide, as they might stop working. This web app is not 100% secure from attacks. I strongly recommend to use it just for your purpose.   
 
 How the encoding works
 ---------------------
@@ -21,24 +21,7 @@ How to Use it
 - Upload all files 
 - Edit settings.php 
 	
-DEMO 
---------------
+Credits
+--------
 
-This is an [Demo](http://xtremenews.info/obfuscator/)
-
-
-FREE Online PHP Obfuscator
-Copyright (C) 2012  Pl4g4
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>
+Pl4g4
