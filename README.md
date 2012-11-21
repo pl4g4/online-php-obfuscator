@@ -1,7 +1,7 @@
 Online PHP Obfuscator
 ====================
 
-Submit any PHP file and you will get back an obfuscated 100% PHP equivalent file, which requires no special server runtime for execution. Backup your original files and replace them with those generated here. Please note that this method is NOT bulletproof, but will keep away curious eyes from your code. DO NOT modify the files we provide, as they might stop working. This web app is not 100% secure from attacks. I strongly recommend to use it just for your purpose.   
+Submit any PHP file and you will get back an obfuscated 100% PHP equivalent file, which requires no special server runtime for execution. Backup your original files and replace them with those generated here. Please note that this method is NOT bulletproof, but will keep away curious eyes from your code. DO NOT modify the files we provide, as they might stop working. This web app is not 100% secure from attacks. I strongly recommend to use it just for encoding your personal projects.   
 
 How the encoding works
 ---------------------
