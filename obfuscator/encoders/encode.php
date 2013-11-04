@@ -10,7 +10,7 @@
 	include_once("obfuscateVariables.php");	
 
 	//obfuscating variables
-	$enc = new Encryption ();
+	$enc = new Encryption();
 	$enc->parse ($file)->codeit ($file); 
 		
 	//First encoder

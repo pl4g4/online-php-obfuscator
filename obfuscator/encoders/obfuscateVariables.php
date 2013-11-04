@@ -1,4 +1,4 @@
- <?
+ <?php
 /**
  * Encryption class
  *
@@ -176,3 +176,5 @@ class Encryption
         return $this->abc[rand (0, 25)].$this->abc[rand (0, 25)].str_repeat('_', rand (2, 15)).$this->abc[rand (0, 25)];
     }
 } 
+
+?>
