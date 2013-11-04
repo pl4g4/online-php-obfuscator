@@ -11,7 +11,7 @@
 
 	//obfuscating variables
 	$enc = new Encryption();
-	$enc->parse ($file)->codeit ($file); 
+	$enc->parse($file)->codeit($file); 
 		
 	//First encoder
 	$obfuscator=new PhpObfuscator();
