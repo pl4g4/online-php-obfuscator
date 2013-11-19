@@ -10,8 +10,11 @@
 	include_once("obfuscateVariables.php");	
 
 	//obfuscating variables
-	$enc = new Encryption();
-	$enc->parse($file)->codeit($file); 
+	//$enc = new Encryption();
+	//$enc->parse ($file)->codeit($file); 
+	
+
+	
 		
 	//First encoder
 	$obfuscator=new PhpObfuscator();
@@ -32,8 +35,8 @@
 		$packer->save("../".$filePath."/obfuscated_".$fileName);
 		
 		//obfuscating variables
-		$enc = new Encryption ();
-	    $enc->parse ("../".$filePath."/obfuscated_".$fileName)->codeit ("../".$filePath."/obfuscated_".$fileName); 				
+		$enc = new Encryption();
+	    $enc->parse("../".$filePath."/obfuscated_".$fileName)->codeit ("../".$filePath."/obfuscated_".$fileName); 				
 
 	    //deleting files
 		unlink($obfuscatedFile);
