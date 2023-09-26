@@ -1,0 +1,49 @@
+
+  
+    .button {
+    height: 100px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10pt;
+    font-size: 200%;
+    width: 60%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    }    
+
+    .buttonT {
+        height: 80px;
+        width:16%;
+       font-size: 200%;
+    }
+
+    .button:hover {
+    opacity: 0.8;
+    }
+
+    .table_admin {
+        padding: 0px;
+        font-size: 100%;
+        margin-bottom: 50px;
+    }
+
+    .table_admin td{ 
+        padding: 8px;
+    }
+    .table_admin th{ 
+        border: none;
+        padding: 8px;
+    }
+
+    .bottomTable {
+        font-size: 200%;
+    }
+  
+    h1 {
+        margin-top: 60px;
+        font-size: 150%;
+        color: darkslateblue;
+    }

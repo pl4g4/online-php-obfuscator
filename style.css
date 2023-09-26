@@ -1,0 +1,259 @@
+
+.login {
+    width: 80%;
+    height: 700px;
+    border: 1px solid gray;
+    border-radius: 30px;
+    font-size: 100%;
+    margin: 0 auto;
+    margin-top: 300px;
+}
+body {
+    display: block;
+    margin: 0px;
+}
+
+.form {
+    font-size: 100%;
+}
+    h1{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-style:normal;
+        font-size: 320%;
+    }
+
+    h2{
+        margin-top: 50px;
+        margin-bottom: 30px;
+        font-style:normal;
+        font-size: 320%;
+    }
+
+    input[type=text], input[type=password] {
+        width: 70%;
+        height: 120px;
+        padding: 12px 20px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 10pt;
+        font-size: 300%;
+        box-sizing: border-box;
+        margin-bottom: 30px;
+        margin-top: 15px;;
+    }
+
+    input[type=number] {
+        text-align: center;
+        width: 140px;
+        height: 100px;
+        padding: 2px 2px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 10pt;
+        font-size: 150%;
+        box-sizing: border-box;
+    }
+      
+    .topmenu{
+        width: 100% auto;
+        margin-bottom: 70px;
+    }
+
+    .fakeBt {
+        background: #903938;
+        color: white;
+        font-size: 250%;
+        width: 100%;
+        height: 130px;
+        margin-bottom: 10px;
+    }
+
+    .btAdd {
+        color: white;
+        width: 30%;
+        height: 100px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 400%;
+        background-color:cadetblue;
+        border: 0;
+        border-radius: 10px;
+    }
+
+    .btCancel {
+        background:rgb(161, 161, 160);
+        color: white;
+        text-align: center;
+        width: 90px;
+        height: 70px;
+        padding: 2px 2px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 10pt;
+        font-size: 100%;
+        box-sizing: border-box;
+    }
+
+    .btAdd:hover {
+        opacity: 0.8;
+        }
+
+    .button {
+        width: 70%;
+        font-size: 270%;
+        align-content: center;
+        height: 120px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 10pt;
+        cursor: pointer;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }    
+
+    .button:hover {
+    opacity: 0.8;
+    }
+
+    .table{
+        width: 100% auto;
+        font-size: 350%;   
+    }
+
+    .table th,td{ 
+        padding: 20px;
+    } 
+
+    .buttonT {
+        height: 120px;
+        width:16%;
+       font-size: 200%;
+    }
+
+    .textName{
+        font-weight: bolder;
+        font-size: 400%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+
+    .about {
+        font-size: 220%;
+        color: rgb(172, 78, 1);
+        margin-top: 30px;
+    }
+    .btLogout {
+        font-size: 220%;
+    }
+
+    .btUpdate {
+        width: 40%;
+        font-size: 300%;
+        align-content: center;
+        height: 120px;
+        background-color: #89a800;
+        color: white;
+        border: none;
+        border-radius: 100pt;
+        cursor: pointer;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .btUpdate:hover {
+        opacity: 0.5;
+        }
+
+    h3 {
+        font-size: 90%;
+        color: chocolate;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    h4 {
+        font-size: 90%;
+        color:#19911d;
+        margin-top: 10px;
+        margin-bottom: -10px;
+    }
+
+    h5 {
+        font-size: 90%;
+        color:#be280d;
+        margin-top: 10px;
+        margin-bottom: -10px;
+    }
+
+    .work {
+        font-size: 300%;
+    }
+
+    select {
+        font-size: 300%; 
+    }
+
+    .question{
+        border: 15px;
+        border-style: outset;
+        border-radius: 30px;
+        margin-top: 300px;
+    }
+
+    .table_admin {
+        padding: 0px;
+        font-size: 100%;
+        margin-bottom: 50px;
+    }
+
+    .table_admin td{ 
+        padding: 3px;
+    }
+    .table_admin th{ 
+        padding: 5px;
+        border: none;
+        padding: 8px;
+    }
+
+
+   .msgtitle{
+    font-size: 350%;
+    font-weight: bold;
+    color: #be280d;
+    margin-top: 100px;
+   }
+
+   .msg1, mg2{
+        font-size: 330%;
+        margin-top: 40px;
+        color :black;
+   }
+
+   .btYN{
+    font-size: 300%;
+    color: white;
+    background-color: #19911d;
+    border: 10px;
+    border-radius: 30px;    
+    width: 80%;
+    height: 140px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+   }
+
+   .about{
+    font-size: 200%;
+    color:white;
+    background-color: rgb(28, 28, 83);
+   }
+
+   .footer {
+    font-size: 300%;
+    background: #903938;
+    color: #fff;
+    padding: 10px 0px;
+    text-align: center; }
+
+  
